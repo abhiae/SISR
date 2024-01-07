@@ -21,5 +21,5 @@ To upsample a low-res image 4 times use the colab notebook ["super resolve.ipynb
 Datset = [COCO Dataset(2014)](https://cocodataset.org/#download)
 
 ### Refrences
-[_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network_](https://arxiv.org/abs/1609.04802)
+[_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network_](https://arxiv.org/abs/1609.04802)\
 [_a-PyTorch-Tutorial-to-Super-Resolution_](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution)
